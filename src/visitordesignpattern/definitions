@@ -1,0 +1,3 @@
+Visitor design pattern allows us to add methods to classes of different types without
+much altering to those classes
+It is a behavioral design pattern
